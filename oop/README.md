@@ -18,3 +18,8 @@ To run the tests:
 ```
 node oop-test.js
 ```
+
+## Resources
+
+* [The Node Way](https://github.com/FredKSchott/the-node-way)
+* [OOP in JS](http://phrogz.net/js/classes/OOPinJS.html)
